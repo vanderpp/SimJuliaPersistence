@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.13)  21 FEB 2024 06:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.13)  29 FEB 2024 14:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -710,8 +710,37 @@ File: images/VueApp.png Graphic file (type png)
 Package pdftex.def Info: images/VueApp.png  used on input line 195.
 (pdftex.def)             Requested size: 215.99854pt x 171.88239pt.
 
-Underfull \hbox (badness 1803) in paragraph at lines 206--206
-\T1/ptm/m/n/9 we started work-ing on v0.8.1. The RDBMS is Post-greSQL
+Underfull \hbox (badness 5245) in paragraph at lines 206--206
+\T1/ptm/m/n/9 The ar-chi-tec-ture, which is avail-able at []$\T1/cmtt/m/n/9 htt
+ps : / / github .
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 206--206
+\T1/ptm/m/n/9 ing sev-eral sce-nar-ios re-flect-ing the in-tended use dur-ing s
+im-
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 206--206
+\T1/ptm/m/n/9 u-la-tions. We used a Mac-Book Pro, equipped with an In-tel
+ []
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 206--206
+\T1/ptm/m/n/9 v1.84 with Ju-lia v1.8.5. \T1/cmtt/m/n/9 PostgresORM.jl \T1/ptm/m
+/n/9 is at v0.5.0. The
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 206--206
+\T1/ptm/m/n/9 u-la-tion which was used to run the test cases can be found
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 206--206
+\T1/ptm/m/n/9 at []$\T1/cmtt/m/n/9 https : / / github . com / vanderpp / SimJul
+iaPersistence /
  []
 
 
@@ -929,7 +958,7 @@ ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive
 exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (9 pages, 718643 bytes).
+Output written on paper.pdf (9 pages, 718676 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  280 compressed objects within 3 object streams

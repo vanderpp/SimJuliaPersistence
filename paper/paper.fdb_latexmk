@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex paper"] 1708494367 "paper.aux" "paper.bbl" "paper" 1708494483
+["bibtex paper"] 1708494367 "paper.aux" "paper.bbl" "paper" 1709213019
   "./juliacon.bst" 1693315666 20997 2eaa317b2b3889daf19a84ad3db6071a ""
-  "paper.aux" 1708494470 7538 f297d2a284f167a1464e0888fa12ae5a "pdflatex"
+  "paper.aux" 1709213018 7538 f297d2a284f167a1464e0888fa12ae5a "pdflatex"
   "ref.bib" 1708438413 10661 54369641c348835349230ec877400e48 ""
   (generated)
   "paper.blg"
   "paper.bbl"
-["pdflatex"] 1708494468 "paper.tex" "paper.pdf" "paper" 1708494483
+["pdflatex"] 1709213016 "paper.tex" "paper.pdf" "paper" 1709213019
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -135,22 +135,22 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1599989143 2432462 4896aebd601c663ffbb86d4d57bd7f3f ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "header.tex" 1708494483 1124 b61a9d5c0896ff795213b0f806faf555 ""
+  "header.tex" 1709213016 1124 b61a9d5c0896ff795213b0f806faf555 ""
   "images/HighLevelArch.png" 1700222252 120624 dfd37edd634c121f36fd4a242f971a04 ""
   "images/VueApp.png" 1707125294 296467 aeb2cab772c03d44dabab767b633c9bb ""
   "images/overviewArch.png" 1700218588 262299 8038f5999023826316ca34c2c325d9ee ""
   "images/simHeapCallbacksProbe.png" 1700218772 30783 5c1eda115061708378fd2aea23b8e822 ""
   "images/threePhase.png" 1707138186 34480 bd9bcfd0481804469f9b8fb34626c42f ""
   "jlcode.sty" 1693315666 18246 d33ccf865c532e11b9480876a6bb58b2 ""
-  "journal_dat.tex" 1708494483 150 e8f5f0ce758e2580b918922de6715366 ""
+  "journal_dat.tex" 1709213016 150 e8f5f0ce758e2580b918922de6715366 ""
   "juliacon.cls" 1708434229 30596 9490ae292a51457f3473643467f93fcf ""
   "logojuliacon.pdf" 1693315666 4937 0cb75c4e65b0cf72a69c7716f140efe5 ""
-  "paper.aux" 1708494470 7538 f297d2a284f167a1464e0888fa12ae5a "pdflatex"
+  "paper.aux" 1709213018 7538 f297d2a284f167a1464e0888fa12ae5a "pdflatex"
   "paper.bbl" 1708494368 5808 e3008509132198d14ab66e717701bc4e "bibtex paper"
-  "paper.out" 1708494470 1382 3d386f4cc261fa28843c6ee18593fa8a "pdflatex"
-  "paper.tex" 1708494466 48920 2b2a9423bfa9ef79f21f939274ae3862 ""
+  "paper.out" 1709213018 1382 3d386f4cc261fa28843c6ee18593fa8a "pdflatex"
+  "paper.tex" 1709212817 48934 39f33e01dcc89e53707ce8c075138f56 ""
   (generated)
   "paper.log"
-  "paper.aux"
-  "paper.pdf"
   "paper.out"
+  "paper.pdf"
+  "paper.aux"
