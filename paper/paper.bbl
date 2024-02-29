@@ -1,0 +1,167 @@
+\begin{thebibliography}{10}
+
+\bibitem{Dataframes}
+Data{F}rames.jl.
+\url{https://dataframes.juliadata.org/stable/}.
+Online; accessed 23-November-2023.
+
+\bibitem{hibernate}
+Hibernate 6.3 {D}ocumentation.
+\url{https://hibernate.org/orm/documentation/6.3/}.
+Online; accessed 23-November-2023.
+
+\bibitem{JuliaDB}
+Julia{DB}.jl.
+\url{https://juliadb.juliadata.org/stable/}.
+Online; accessed 23-November-2023.
+
+\bibitem{abar2017agent}
+Sameera Abar, Georgios~K Theodoropoulos, Pierre Lemarinier, and Gregory~MP
+  O’Hare.
+Agent based modelling and simulation tools: A review of the state-of-art
+  software.
+{\em Computer Science Review}, 24:13--33, 2017.
+
+\bibitem{abdessameud2019manpower}
+Oussama~Mazari Abdessameud, Johan Van~Kerckhoven, Filip Van~Utterbeeck, and
+  Marie-Anne Guerry.
+Manpower planning using simulation and heuristic optimization.
+In {\em 2019 Industrial Simulation Conference}, pages 53--58. EUROSIS-ETI,
+  2019.
+
+\bibitem{bezanson2017julia}
+Jeff Bezanson, Alan Edelman, Stefan Karpinski, and Viral~B Shah.
+Julia: A fresh approach to numerical computing.
+{\em SIAM review}, 59(1):65--98, 2017.
+\href{http://dx.doi.org/10.1137/141000671}{doi:10.1137/141000671}.
+
+\bibitem{booch2008object}
+Grady Booch, Robert~A Maksimchuk, Michael~W Engle, Bobbi~J Young, Jim
+  Connallen, and Kelli~A Houston.
+Object-oriented analysis and design with applications.
+{\em ACM SIGSOFT software engineering notes}, 33(5):29--29, 2008.
+
+\bibitem{DahlNygaard1966simula}
+Ole-Johan Dahl and Kristen Nygaard.
+Simula: An algol-based simulation language.
+{\em Commun. ACM}, 9(9):671–678, sep 1966.
+\href{http://dx.doi.org/10.1145/365813.365819}{doi:10.1145/365813.365819}.
+
+\bibitem{de2018simedis}
+Ruben De~Rouck, Michel Debacker, Ives Hubloue, Selma Koghee, Filip
+  Van~Utterbeeck, and Erwin Dhondt.
+Simedis 2.0: on the road toward a comprehensive mass casualty incident medical
+  management simulator.
+In {\em 2018 Winter Simulation Conference (WSC)}, pages 2713--2724. IEEE, 2018.
+
+\bibitem{hauser2011review}
+Pascal Hauser.
+Review of db4o from db4objects.
+{\em University of Applied Sciences Rapperswil, Switzerland}, 2011.
+
+\bibitem{helsgaun1980disco}
+Keld Helsgaun.
+Disco-a simula-based language for continuous combined and discrete simulation:
+  Simulation software.
+{\em Simulation}, 35(1):1--12, 1980.
+
+\bibitem{hermosilla2017ballistics}
+Itsaso Hermosilla.
+Simulating a {S}tochastic {D}ifferential {E}quation {M}odel by {E}xact
+  {S}ampling.
+In {\em 11th International Conference on MonteCarlo Methods and Applications},
+  page~47, 2017.
+
+\bibitem{ireland2009classification}
+Christopher Ireland, David Bowers, Michael Newton, and Kevin Waugh.
+A classification of object-relational impedance mismatch.
+In {\em 2009 First International Confernce on Advances in Databases, Knowledge,
+  and Data Applications}, pages 36--43. IEEE, 2009.
+
+\bibitem{datastructures}
+{D}ata~{V}tructures Julia{C}ollections:~{C}ollections and {A}lgorithms~for
+  {J}ulia.
+Data{S}tructures.jl.
+\url{https://juliacollections.github.io/DataStructures.jl/latest/}.
+Online; accessed 14-September-2023.
+
+\bibitem{SimPy}
+Stefan~Scherfke Klaus~Müller, Tony~Vignaux and Ontje Lünsdorf.
+Sim{P}y, a process-based discrete-event simulation framework based on standard
+  python.
+\url{https://simpy.readthedocs.io/en/latest/}.
+Online; accessed 07-September-2023.
+
+\bibitem{QuantumSavory}
+Stefan Krastanov and Abhishek Bhatt.
+Quantum{S}avory.jl, a multi-formalism simulator for noisy quantum communication
+  and computation hardware.
+\url{https://https://github.com/QuantumSavory/QuantumSavory.jl}.
+Online; accessed 23-November-2023.
+
+\bibitem{tecnivelPostgresORM}
+Vincent Laugier.
+Postgres{ORM}.jl: {O}bject {R}elational {M}apping for {P}ostgre{SQL}.
+\url{https://juliapostgresorm.github.io/PostgresORM.jl/dev/}, 2021.
+Online; accessed 14-September-2023.
+
+\bibitem{lauwens2017simjulia}
+Ben Lauwens.
+Monte {C}carlo simulation {U}sing {S}im{J}ulia.
+In {\em 11th International Conference on MonteCarlo Methods and Applications},
+  page 122, 2017.
+
+\bibitem{lauwens2017resumablefunctions}
+Ben Lauwens.
+Resumable{F}unctions: C\# {S}harp {S}tyle {G}enerators for {J}ulia.
+{\em Journal of Open Source Software}, 2(18):400, 2017.
+
+\bibitem{lauwens2017simjuliaSite}
+Ben Lauwens.
+Simjulia: {D}iscrete {E}vent {P}rocess {O}riented {S}imulation {F}ramework
+  {W}ritten in {J}ulia.
+\url{https://simjuliajl.readthedocs.io/en/stable/welcome.html}, 2017.
+Online; accessed 28-June-2022.
+
+\bibitem{law2007simulation}
+Averill~M Law, W~David Kelton, and W~David Kelton.
+{\em Simulation modeling and analysis}, volume~3.
+Mcgraw-hill New York, 2007.
+
+\bibitem{psqldocs}
+{PostgreSQL Development Team}.
+{PostgreSQL Documentation}.
+
+\bibitem{russell2008bridging}
+Craig Russell.
+Bridging the {O}bject-{R}elational {D}ivide: {ORM} {T}echnologies {C}an
+  {S}implify {D}ata {A}ccess, {B}ut {B}e {A}ware {O}f {T}he {C}hallenges {T}hat
+  {C}ome {W}ith {I}ntroducing {T}his {N}ew {L}ayer {O}f {A}bstraction.
+{\em Queue}, 6(3):18--28, 2008.
+
+\bibitem{saeed2022persistence}
+Luqman Saeed and Ghazy Abdallah.
+Persistence with jakarta ee persistence.
+In {\em Pro Cloud Native Java EE Apps: DevOps with MicroProfile, Jakarta EE 10
+  APIs, and Kubernetes}, pages 139--192. Springer, 2022.
+
+\bibitem{genie}
+Adrian Salceanu.
+Genieframework.
+\url{https://genieframework.com/}.
+Online; accessed 23-November-2023.
+
+\bibitem{macrotools}
+Flux{M}l: The Elegant Machine~Learning Stack.
+Macro{T}ools provides a library of tools for working with julia code and
+  expressions.
+\url{https://fluxml.ai/MacroTools.jl/stable/}.
+Online; accessed 14-September-2023.
+
+\bibitem{httpjl}
+Julia{W}eb: {W}eb technologies in~the Julia Programming~Language.
+{HTTP}.jl: Http client and server functionality for julia.
+\url{https://github.com/JuliaWeb/HTTP.jl}.
+Online; accessed 14-September-2023.
+
+\end{thebibliography}
