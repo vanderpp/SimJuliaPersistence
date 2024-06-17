@@ -41,6 +41,13 @@ Grady Booch, Robert~A Maksimchuk, Michael~W Engle, Bobbi~J Young, Jim
 Object-oriented analysis and design with applications.
 {\em ACM SIGSOFT software engineering notes}, 33(5):29--29, 2008.
 
+\bibitem{datastructures}
+Julia{C}ollections: {C}ollections~{D}ata {V}tructures and {A}lgorithms~for
+  {J}ulia.
+Data{S}tructures.jl.
+\url{https://juliacollections.github.io/DataStructures.jl/latest/}.
+Online; accessed 14-September-2023.
+
 \bibitem{DahlNygaard1966simula}
 Ole-Johan Dahl and Kristen Nygaard.
 Simula: An algol-based simulation language.
@@ -77,13 +84,6 @@ Christopher Ireland, David Bowers, Michael Newton, and Kevin Waugh.
 A classification of object-relational impedance mismatch.
 In {\em 2009 First International Confernce on Advances in Databases, Knowledge,
   and Data Applications}, pages 36--43. IEEE, 2009.
-
-\bibitem{datastructures}
-{D}ata~{V}tructures Julia{C}ollections:~{C}ollections and {A}lgorithms~for
-  {J}ulia.
-Data{S}tructures.jl.
-\url{https://juliacollections.github.io/DataStructures.jl/latest/}.
-Online; accessed 14-September-2023.
 
 \bibitem{SimPy}
 Stefan~Scherfke Klaus~Müller, Tony~Vignaux and Ontje Lünsdorf.

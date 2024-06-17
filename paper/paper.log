@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.13)  29 FEB 2024 14:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.13)  17 JUN 2024 14:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -514,19 +514,13 @@ m/m/n/9 [[], []] and
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 33--33
-[]\T1/ptm/m/n/9 At high level, we dis-tin-guish a static phase, dur-ing which
+Underfull \hbox (badness 7888) in paragraph at lines 33--33
+[]\T1/ptm/m/n/9 At a high level, we dis-tin-guish a static phase, dur-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-\T1/ptm/m/n/9 model anal-y-sis takes place trough a mod-i-fi-ca-tion of
- []
-
-
-Underfull \hbox (badness 3260) in paragraph at lines 33--33
-\T1/ptm/m/n/9 (ORM) con-cept [[]] im-ple-mented in the \T1/cmtt/m/n/9 PostgresO
-RM.jl
+Underfull \hbox (badness 2269) in paragraph at lines 33--33
+\T1/ptm/m/n/9 which model anal-y-sis takes place trough a mod-i-fi-ca-tion of
  []
 
 
@@ -559,9 +553,9 @@ Underfull \hbox (badness 4582) in paragraph at lines 49--49
  []
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 63.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 63.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 64.
 
 Overfull \vbox (2.39996pt too high) has occurred while \output is active []
 
@@ -577,17 +571,11 @@ File: images/simHeapCallbacksProbe.png Graphic file (type png)
 Package pdftex.def Info: images/simHeapCallbacksProbe.png  used on input line 8
 4.
 (pdftex.def)             Requested size: 215.99854pt x 117.40251pt.
-
-Underfull \vbox (badness 5548) has occurred while \output is active []
-
 <images/threePhase.png, id=179, 199.29pt x 252.945pt>
 File: images/threePhase.png Graphic file (type png)
 <use images/threePhase.png>
 Package pdftex.def Info: images/threePhase.png  used on input line 108.
 (pdftex.def)             Requested size: 144.00146pt x 182.7764pt.
-
-Underfull \vbox (badness 3954) has occurred while \output is active []
-
 
 Overfull \vbox (2.39996pt too high) has occurred while \output is active []
 
@@ -640,6 +628,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--141
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (2.39996pt too high) has occurred while \output is active []
 
 
@@ -679,7 +670,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--162
  []
 
 
-Underfull \vbox (badness 1466) has occurred while \output is active []
+Underfull \vbox (badness 1337) has occurred while \output is active []
 
 <images/overviewArch.png, id=203, 697.515pt x 404.055pt>
 File: images/overviewArch.png Graphic file (type png)
@@ -807,18 +798,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--24
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--87
-[]\T1/ptm/m/n/9 Data Vtruc-tures Ju-li-a-Col-lec-tions: Col-lec-tions and
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
+[]\T1/ptm/m/n/9 JuliaCollections: Col-lec-tions Data Vtruc-tures and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--87
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
 \T1/ptm/m/n/9 Al-go-rithms for Ju-lia. DataS-truc-tures.jl. []$\T1/cmtt/m/n/9 h
 ttps :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 82--87
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
 \T1/cmtt/m/n/9 / / juliacollections . github . io / DataStructures .
  []
 
@@ -958,7 +949,7 @@ ve/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive
 exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on paper.pdf (9 pages, 718676 bytes).
+Output written on paper.pdf (9 pages, 718669 bytes).
 PDF statistics:
  313 PDF objects out of 1000 (max. 8388607)
  280 compressed objects within 3 object streams
