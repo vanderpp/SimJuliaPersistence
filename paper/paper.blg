@@ -8,43 +8,43 @@ Warning--to sort, need author or key in Dataframes
 Warning--to sort, need author or key in JuliaDB
 You've used 27 entries,
             2314 wiz_defined-function locations,
-            678 strings with 8984 characters,
-and the built_in function-call counts, 8474 in all, are:
-= -- 855
-> -- 328
+            686 strings with 9257 characters,
+and the built_in function-call counts, 8516 in all, are:
+= -- 862
+> -- 323
 < -- 7
-+ -- 134
-- -- 106
-* -- 458
-:= -- 1345
-add.period$ -- 94
++ -- 132
+- -- 104
+* -- 479
+:= -- 1350
+add.period$ -- 103
 call.type$ -- 27
-change.case$ -- 133
+change.case$ -- 132
 chr.to.int$ -- 0
 cite$ -- 30
-duplicate$ -- 342
-empty$ -- 787
-format.name$ -- 106
-if$ -- 1891
+duplicate$ -- 349
+empty$ -- 788
+format.name$ -- 104
+if$ -- 1898
 int.to.chr$ -- 0
 int.to.str$ -- 27
 missing$ -- 16
-newline$ -- 147
+newline$ -- 156
 num.names$ -- 48
-pop$ -- 238
+pop$ -- 236
 preamble$ -- 1
-purify$ -- 107
+purify$ -- 106
 quote$ -- 0
-skip$ -- 257
+skip$ -- 251
 stack$ -- 0
-substring$ -- 394
+substring$ -- 375
 swap$ -- 79
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 106
 warning$ -- 3
-while$ -- 74
+while$ -- 72
 width$ -- 29
-write$ -- 298
+write$ -- 316
 (There were 3 warnings)

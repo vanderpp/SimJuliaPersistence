@@ -21,6 +21,7 @@ Sameera Abar, Georgios~K Theodoropoulos, Pierre Lemarinier, and Gregory~MP
 Agent based modelling and simulation tools: A review of the state-of-art
   software.
 {\em Computer Science Review}, 24:13--33, 2017.
+\href{http://dx.doi.org/https://doi.org/10.1016/j.cosrev.2017.03.001}{doi:https://doi.org/10.1016/j.cosrev.2017.03.001}.
 
 \bibitem{abdessameud2019manpower}
 Oussama~Mazari Abdessameud, Johan Van~Kerckhoven, Filip Van~Utterbeeck, and
@@ -36,10 +37,11 @@ Julia: A fresh approach to numerical computing.
 \href{http://dx.doi.org/10.1137/141000671}{doi:10.1137/141000671}.
 
 \bibitem{booch2008object}
-Grady Booch, Robert~A Maksimchuk, Michael~W Engle, Bobbi~J Young, Jim
-  Connallen, and Kelli~A Houston.
-Object-oriented analysis and design with applications.
-{\em ACM SIGSOFT software engineering notes}, 33(5):29--29, 2008.
+Grady Booch, Robert~A. Maksimchuk, Michael~W. Engle, Bobbi~J. Young, Jim
+  Connallen, and Kelli~A. Houston.
+Object-oriented analysis and design with applications, third edition.
+{\em SIGSOFT Softw. Eng. Notes}, 33(5), aug 2008.
+\href{http://dx.doi.org/10.1145/1402521.1413138}{doi:10.1145/1402521.1413138}.
 
 \bibitem{datastructures}
 Julia{C}ollections: {C}ollections~{D}ata {V}tructures and {A}lgorithms~for
@@ -60,17 +62,20 @@ Ruben De~Rouck, Michel Debacker, Ives Hubloue, Selma Koghee, Filip
 Simedis 2.0: on the road toward a comprehensive mass casualty incident medical
   management simulator.
 In {\em 2018 Winter Simulation Conference (WSC)}, pages 2713--2724. IEEE, 2018.
+\href{http://dx.doi.org/10.1109/WSC.2018.8632369}{doi:10.1109/WSC.2018.8632369}.
 
 \bibitem{hauser2011review}
 Pascal Hauser.
 Review of db4o from db4objects.
 {\em University of Applied Sciences Rapperswil, Switzerland}, 2011.
+\url{https://cis.bentley.edu/lwaguespack/CS630_Site/Downloads_files/OODBMS-db4o-Review.pdf}.
 
 \bibitem{helsgaun1980disco}
 Keld Helsgaun.
 Disco-a simula-based language for continuous combined and discrete simulation:
   Simulation software.
 {\em Simulation}, 35(1):1--12, 1980.
+\href{http://dx.doi.org/10.1177/003754978003500102}{doi:10.1177/003754978003500102}.
 
 \bibitem{hermosilla2017ballistics}
 Itsaso Hermosilla.
@@ -84,6 +89,7 @@ Christopher Ireland, David Bowers, Michael Newton, and Kevin Waugh.
 A classification of object-relational impedance mismatch.
 In {\em 2009 First International Confernce on Advances in Databases, Knowledge,
   and Data Applications}, pages 36--43. IEEE, 2009.
+\href{http://dx.doi.org/10.1109/DBKDA.2009.11}{doi:10.1109/DBKDA.2009.11}.
 
 \bibitem{SimPy}
 Stefan~Scherfke Klaus~Müller, Tony~Vignaux and Ontje Lünsdorf.
@@ -107,7 +113,7 @@ Online; accessed 14-September-2023.
 
 \bibitem{lauwens2017simjulia}
 Ben Lauwens.
-Monte {C}carlo simulation {U}sing {S}im{J}ulia.
+Monte {C}arlo simulation {U}sing {S}im{J}ulia.
 In {\em 11th International Conference on MonteCarlo Methods and Applications},
   page 122, 2017.
 
@@ -115,6 +121,7 @@ In {\em 11th International Conference on MonteCarlo Methods and Applications},
 Ben Lauwens.
 Resumable{F}unctions: C\# {S}harp {S}tyle {G}enerators for {J}ulia.
 {\em Journal of Open Source Software}, 2(18):400, 2017.
+\href{http://dx.doi.org/10.21105/joss.00400}{doi:10.21105/joss.00400}.
 
 \bibitem{lauwens2017simjuliaSite}
 Ben Lauwens.
@@ -124,7 +131,7 @@ Simjulia: {D}iscrete {E}vent {P}rocess {O}riented {S}imulation {F}ramework
 Online; accessed 28-June-2022.
 
 \bibitem{law2007simulation}
-Averill~M Law, W~David Kelton, and W~David Kelton.
+Averill~M Law and W~David Kelton.
 {\em Simulation modeling and analysis}, volume~3.
 Mcgraw-hill New York, 2007.
 
@@ -138,12 +145,14 @@ Bridging the {O}bject-{R}elational {D}ivide: {ORM} {T}echnologies {C}an
   {S}implify {D}ata {A}ccess, {B}ut {B}e {A}ware {O}f {T}he {C}hallenges {T}hat
   {C}ome {W}ith {I}ntroducing {T}his {N}ew {L}ayer {O}f {A}bstraction.
 {\em Queue}, 6(3):18--28, 2008.
+\href{http://dx.doi.org/10.1145/1394127.1394139}{doi:10.1145/1394127.1394139}.
 
 \bibitem{saeed2022persistence}
 Luqman Saeed and Ghazy Abdallah.
 Persistence with jakarta ee persistence.
 In {\em Pro Cloud Native Java EE Apps: DevOps with MicroProfile, Jakarta EE 10
-  APIs, and Kubernetes}, pages 139--192. Springer, 2022.
+  APIs, and Kubernetes}, pages 139--192. Apress, 2022.
+\href{http://dx.doi.org/10.1007/978-1-4842-8900-6}{doi:10.1007/978-1-4842-8900-6}.
 
 \bibitem{genie}
 Adrian Salceanu.
